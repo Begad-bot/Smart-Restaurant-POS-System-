@@ -1,4 +1,4 @@
-# 🍔 Python Restaurant Cashier System
+# 🍔 Smart Restaurant POS System
 
 A professional, terminal-based cashier system built with Python, demonstrating advanced Object-Oriented Programming (OOP) concepts.
 
