@@ -32,7 +32,7 @@ This system was built adhering to strict structural requirements:
 3. Run the following command:
 
 ```powershell
-python cashier_system.py
+python Smart Restaurant (POS) System.py
 ```
 
 ## 📝 Example Usage
